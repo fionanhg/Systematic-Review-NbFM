@@ -1,0 +1,128 @@
+﻿Scale,title,doi,Valence,BD Cat,B,FM type,BD type,C
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Negative,Riparian,B,anti-erosion,Species Richness,E
+meso,"Dryland Watershed Restoration With Rock Detention Structures: A Nature-based Solution to Mitigate Drought, Erosion, Flooding, and Atmospheric Carbon",10.3389/fenvs.2021.679189,Positive,Riparian,B,anti-erosion,Abundance,E
+meso,How maintenance and restoration measures mediate the response of riparian plant functional composition to environmental gradients on channel margins: Insights from a highly degraded large river,10.1016/j.scitotenv.2018.11.434,Positive,Riparian,B,anti-erosion,Abundance,E
+meso,How maintenance and restoration measures mediate the response of riparian plant functional composition to environmental gradients on channel margins: Insights from a highly degraded large river,10.1016/j.scitotenv.2018.11.434,Positive,Riparian,B,anti-erosion,Species Richness,E
+meso,Valuation of the environmental benefits induced by a constructed wetland,10.1007/s11273-021-09811-x,Positive,TerVeg,A,anti-erosion,Community Composition,E
+meso,Assessing flooding and possible adaptation measures using remote sensing data and hydrological modeling in Sweden,https://doi.org/10.1016/j.crm.2022.100464,Positive,TerVeg,A,anti-floodimpact,Abundance,G
+micro,"Evaluation of Pandanus Trees as a Means of Eco-DRR against Storm Surge Wave on Saint Martin√¢‚Ç¨‚Ñ¢s Island, Bangladesh",10.3390/w14111781,Positive,TerVeg,A,anti-floodimpact,Abundance,G
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Negative,AquVeg,C,anti-flowvelocity,Habitat Abundance,C
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Positive,AquVeg,C,anti-flowvelocity,Habitat Diversity,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Negative,Fish,D,anti-flowvelocity,species richness,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Fish,D,anti-flowvelocity,species richness,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Fish,D,anti-flowvelocity,species richness,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Inverts,E,anti-flowvelocity,Habitat Abundance,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Negative,Inverts,E,anti-flowvelocity,Habitat Abundance,C
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Inverts,E,anti-flowvelocity,Habitat Abundance,C
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Negative,Inverts,E,anti-flowvelocity,Species Abundance,C
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,anti-flowvelocity,Species Composition no baseline,C
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,anti-flowvelocity,Species Density,C
+meso,Assessing flooding and possible adaptation measures using remote sensing data and hydrological modeling in Sweden,https://doi.org/10.1016/j.crm.2022.100464,Positive,TerVeg,A,anti-flowvelocity,Abundance,C
+meso,Contradictory hydrological impacts of afforestation in the humid tropics evidenced by long-term field monitoring and simulation modelling,10.5194/hess-20-2691-2016,Positive,TerVeg,A,anti-flowvelocity,Single Species Abundance,C
+meso,Contradictory hydrological impacts of afforestation in the humid tropics evidenced by long-term field monitoring and simulation modelling,10.5194/hess-20-2691-2016,Positive,TerVeg,A,anti-flowvelocity,Single Species Abundance,C
+meso,Valuation of the environmental benefits induced by a constructed wetland,10.1007/s11273-021-09811-x,Positive,TerVeg,A,anti-flowvelocity,Community Composition,C
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,anti-runoff,Species Density,D
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,anti-runoff,Species Evenness,D
+micro,"Amount of water runoff from different vegetation types on extensive green roofs: Effects of plant species, diversity and plant structure",10.1016/j.landurbplan.2011.11.001,Neutral,TerVeg,A,anti-runoff,Abundance,D
+micro,"Amount of water runoff from different vegetation types on extensive green roofs: Effects of plant species, diversity and plant structure",10.1016/j.landurbplan.2011.11.001,Positive,TerVeg,A,anti-runoff,Abundance,D
+meso,Assessing flooding and possible adaptation measures using remote sensing data and hydrological modeling in Sweden,https://doi.org/10.1016/j.crm.2022.100464,Positive,TerVeg,A,anti-runoff,Abundance,D
+micro,Influence of plant composition and water use strategies on green roof stormwater retention,10.1016/j.scitotenv.2017.12.231,Neutral,TerVeg,A,anti-runoff,Community Composition,D
+meso,"Land-use impacts on the quantity and configuration of ecosystem service provisioning in Massachusetts, USA",10.1111/1365-2664.12444,Positive,TerVeg,A,anti-runoff,Species Evenness,D
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Positive,TerVeg,A,anti-runoff,Abundance,D
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Positive,TerVeg,A,anti-runoff,Abundance,D
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Neutral,TerVeg,A,anti-runoff,Abundance,D
+meso,Aquatic ecosystem functions of an isolated floodplain and their implications for flood retention and management,10.1111/1365-2664.12029,Positive,AquVeg,C,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Negative,AquVeg,C,pro-conveyance,Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Positive,AquVeg,C,pro-conveyance,Habitat Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Negative,AquVeg,C,pro-conveyance,Single Species Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Positive,AquVeg,C,pro-conveyance,Single Species Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Bacteria,G,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Bacteria,G,pro-conveyance,Abundance,B
+micro,Green Infrastructure Design Influences Communities of Urban Soil Bacteria,10.3389/fmicb.2019.00982,Neutral,Bacteria,G,pro-conveyance,Abundance,B
+micro,Green Infrastructure Design Influences Communities of Urban Soil Bacteria,10.3389/fmicb.2019.00982,Positive,Bacteria,G,pro-conveyance,Abundance,B
+micro,Green Infrastructure Design Influences Communities of Urban Soil Bacteria,10.3389/fmicb.2019.00982,Positive,Bacteria,G,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Negative,Birds,F,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Negative,Birds,F,pro-conveyance,Abundance,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Positive,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Positive,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Negative,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Positive,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Positive,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Positive,Birds,F,pro-conveyance,Species Richness,B
+meso,The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico,10.7717/peerj.7493,Negative,Birds,F,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Negative,CoastWet,HA,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Positive,CoastWet,HA,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Positive,CoastWet,HA,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Positive,CoastWet,HA,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Negative,CoastWet,HA,pro-conveyance,Species Richness,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Fish,D,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Fish,D,pro-conveyance,Abundance,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Positive,Fish,D,pro-conveyance,Species Richness,B
+meso,Macro-tidal salt marsh ecosystem response to culvert expansion,10.1111/j.1526-100X.2009.00602.x,Positive,Fish,D,pro-conveyance,Species Richness,B
+meso,Aquatic ecosystem functions of an isolated floodplain and their implications for flood retention and management,10.1111/1365-2664.12029,Positive,Insecta,L,pro-conveyance,Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Positive,Inverts,E,pro-conveyance,Single Species Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Positive,Inverts,E,pro-conveyance,Single Species Abundance,B
+meso,How do instream flow increase and gravel augmentation impact biological communities in large rivers: A case study on the Upper Rhine River,10.1002/rra.3237,Neutral,Inverts,E,pro-conveyance,Species Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Plankton,HB,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Plankton,HB,pro-conveyance,Abundance,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,Plankton,HB,pro-conveyance,Abundance,B
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Positive,Riparian,B,pro-conveyance,Species Richness,B
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Negative,Riparian,B,pro-conveyance,Species Richness,B
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Positive,Riparian,B,pro-conveyance,Species Richness,B
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Positive,Riparian,B,pro-conveyance,Species Richness,B
+meso,Are natural floods accelerators for streambank vegetation development in floodplain restoration?,10.1002/iroh.202102091,Neutral,Riparian,B,pro-conveyance,Species Richness,B
+meso,How maintenance and restoration measures mediate the response of riparian plant functional composition to environmental gradients on channel margins: Insights from a highly degraded large river,10.1016/j.scitotenv.2018.11.434,Positive,Riparian,B,pro-conveyance,Abundance,B
+meso,How maintenance and restoration measures mediate the response of riparian plant functional composition to environmental gradients on channel margins: Insights from a highly degraded large river,10.1016/j.scitotenv.2018.11.434,Positive,Riparian,B,pro-conveyance,Species Richness and Abundance and Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Positive,Riparian,B,pro-conveyance,Community Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Positive,Riparian,B,pro-conveyance,Community Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Positive,Riparian,B,pro-conveyance,Community Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Positive,Riparian,B,pro-conveyance,Community Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Negative,Riparian,B,pro-conveyance,Community Composition,B
+meso,Is the riparian habitat creation an effective measure of plant conservation within the urbanized area?,10.1016/j.ecoleng.2015.06.009,Negative,Riparian,B,pro-conveyance,Community Composition,B
+meso,"Seed limitation and saline-alkaline stress restrict wetland restoration potential in the Songnen Plain, northeastern China",10.1016/j.ecolind.2021.107998,Positive,Riparian,B,pro-conveyance,Species Richness,B
+meso,"Seed limitation and saline-alkaline stress restrict wetland restoration potential in the Songnen Plain, northeastern China",10.1016/j.ecolind.2021.107998,Neutral,Riparian,B,pro-conveyance,Species Richness,B
+meso,"Seed limitation and saline-alkaline stress restrict wetland restoration potential in the Songnen Plain, northeastern China",10.1016/j.ecolind.2021.107998,Positive,Riparian,B,pro-conveyance,Species Richness,B
+meso,"Seed limitation and saline-alkaline stress restrict wetland restoration potential in the Songnen Plain, northeastern China",10.1016/j.ecolind.2021.107998,Neutral,Riparian,B,pro-conveyance,Species Richness,B
+meso,Aquatic ecosystem functions of an isolated floodplain and their implications for flood retention and management,10.1111/1365-2664.12029,Positive,TerVeg,A,pro-conveyance,Abundance,B
+meso,Change in Spatial Distribution Patterns and Regeneration of Populus euphratica under Different Surface Soil Salinity Conditions,10.1038/s41598-019-42306-7,Positive,TerVeg,A,pro-conveyance,Species Richness,B
+micro,Plant and Soil Responses to Created Microtopography and Soil Treatments in Bottomland Hardwood Forest Restoration,10.1111/j.1526-100X.2009.00524.x,Positive,TerVeg,A,pro-conveyance,Species richness,B
+micro,Plant and Soil Responses to Created Microtopography and Soil Treatments in Bottomland Hardwood Forest Restoration,10.1111/j.1526-100X.2009.00524.x,Positive,TerVeg,A,pro-conveyance,Species richness,B
+micro,Plant and Soil Responses to Created Microtopography and Soil Treatments in Bottomland Hardwood Forest Restoration,10.1111/j.1526-100X.2009.00524.x,Positive,TerVeg,A,pro-conveyance,functional diversity,B
+meso,Echoes of a flood pulse: short-term effects of record flooding of the Illinois River on floodplain lakes under ecological restoration,10.1007/s10750-017-3220-5,Positive,AquVeg,C,pro-drainage,Abundance,H
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,pro-groundwater,Species Composition no baseline,F
+macro,Trajectories of ecosystem change in restored blanket peatlands,10.1016/j.scitotenv.2019.02.095,Positive,Riparian,B,pro-groundwater,Species Density,F
+meso,Change in Spatial Distribution Patterns and Regeneration of Populus euphratica under Different Surface Soil Salinity Conditions,10.1038/s41598-019-42306-7,Positive,TerVeg,A,pro-groundwater,Abundance,F
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Amphibians,I,pro-retention,Abundance,A
+macro,Tradeoffs among ecosystem services in restored wetlands,10.1016/j.biocon.2015.07.006,Negative,Amphibians,I,pro-retention,Abundance,A
+meso,Early Response of Soil Properties and Function to Riparian Rainforest Restoration,10.1371/journal.pone.0104198,Positive,AquVeg,C,pro-retention,Abundance,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,AquVeg,C,pro-retention,Community Composition,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Bacteria,G,pro-retention,Community Composition,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Birds,F,pro-retention,Funcitonal diversity,A
+macro,Tradeoffs among ecosystem services in restored wetlands,10.1016/j.biocon.2015.07.006,Negative,Birds,F,pro-retention,Species Richness,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Fish,D,pro-retention,Funcitonal diversity,A
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Fish,D,pro-retention,species richness,A
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Negative,Fish,D,pro-retention,single species abundance,A
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Fish,D,pro-retention,habitat diversity,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Fungi,J,pro-retention,species richness,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Inverts,E,pro-retention,species richness,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Inverts,E,pro-retention,Species Richness no baseline,A
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Positive,Inverts,E,pro-retention,species richness,A
+macro,"Heterogeneity of aquatic ecosystems in a developing city for construction of civilized freshwater ecology, China",10.1002/eco.1990,Negative,Inverts,E,pro-retention,abundance,A
+meso,"Stormwater wetlands for the enhancement of environmental ecosystem services: case studies for two retrofit wetlands in Brisbane, Australia",10.1016/j.jclepro.2015.12.081,Positive,Inverts,E,pro-retention,Abundance,A
+micro,Ecosystem services provided by urban ponds and green spaces: a detailed study of a semi-natural site with global importance for research,10.2166/bgs.2022.021,Positive,Mammal,K,pro-retention,Species Richness and Abundance,A
+meso,Contradictory hydrological impacts of afforestation in the humid tropics evidenced by long-term field monitoring and simulation modelling,10.5194/hess-20-2691-2016,Positive,TerVeg,A,pro-retention,Abundance,A
+meso,Contradictory hydrological impacts of afforestation in the humid tropics evidenced by long-term field monitoring and simulation modelling,10.5194/hess-20-2691-2016,Positive,TerVeg,A,pro-retention,Abundance,A
+micro,Influence of plant composition and water use strategies on green roof stormwater retention,10.1016/j.scitotenv.2017.12.231,Positive,TerVeg,A,pro-retention,Species Abundance,A
+micro,Influence of plant composition and water use strategies on green roof stormwater retention,10.1016/j.scitotenv.2017.12.231,Neutral,TerVeg,A,pro-retention,Species Abundance,A
+micro,Influence of plant composition and water use strategies on green roof stormwater retention,10.1016/j.scitotenv.2017.12.231,Negative,TerVeg,A,pro-retention,Species Abundance,A
+meso,"Land-use impacts on the quantity and configuration of ecosystem service provisioning in Massachusetts, USA",10.1111/1365-2664.12444,Positive,TerVeg,A,pro-retention,Species Evenness,A
+micro,Plant Species and Functional Group Combinations Affect Green Roof Ecosystem Functions,10.1371/journal.pone.0009677,Positive,TerVeg,A,pro-retention,functional diversity,A
+micro,Plant Species and Functional Group Combinations Affect Green Roof Ecosystem Functions,10.1371/journal.pone.0009677,Positive,TerVeg,A,pro-retention,Abundance,A
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Positive,TerVeg,A,pro-retention,Abundance,A
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Neutral,TerVeg,A,pro-retention,Abundance,A
+micro,Plant species richness enhances nitrogen retention in green roof plots,10.1890/15-1850.1/suppinfo,Neutral,TerVeg,A,pro-retention,Abundance,A
+meso,The impact of agricultural land afforestation on soil water content in Central Bohemia,10.17221/108/2021-JFS,Positive,TerVeg,A,pro-retention,Abundance,A
+meso,The impact of agricultural land afforestation on soil water content in Central Bohemia,10.17221/108/2021-JFS,Neutral,TerVeg,A,pro-retention,Abundance,A
+macro,Tradeoffs among ecosystem services in restored wetlands,10.1016/j.biocon.2015.07.006,Negative,TerVeg,A,pro-retention,Species Richness,A
+meso,Valuation of the environmental benefits induced by a constructed wetland,10.1007/s11273-021-09811-x,Positive,TerVeg,A,pro-retention,Community Composition,A
+micro,"When It Rains, It Pours: Integrating Citizen Science Methods to Understand Resilience of Urban Green Spaces",10.3389/frwa.2021.654493,Positive,TerVeg,A,pro-retention,Species Richness,A
